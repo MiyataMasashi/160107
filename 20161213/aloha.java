@@ -1,5 +1,7 @@
 public class aloha {
   public static void main( String[] main){
-    System.out.println("ALOHA!");
+  	for( int i = 0; i < 20; i++ ){
+	  System.out.println("ALOHA!");
+	}
   }
 }
